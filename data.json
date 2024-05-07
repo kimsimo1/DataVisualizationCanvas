@@ -1,0 +1,52 @@
+[
+  {
+    "val": 15,
+    "color": "blue",
+    "text": "Bears"
+  },
+  {
+    "val": 35,
+    "color": "red",
+    "text": "Zebras"
+  },
+  {
+    "val": 10,
+    "color": "yellow",
+    "text": "Tigers"
+  },
+  {
+    "val": 5,
+    "color": "green",
+    "text": "Elephants"
+  },
+  {
+    "val": 60,
+    "color": "orange",
+    "text": "Chimps"
+  },
+  {
+    "val": 25,
+    "color": "gray",
+    "text": "Bald Eagles"
+  },
+  {
+    "val": 55,
+    "color": "cyan",
+    "text": "Pythons"
+  },
+  {
+    "val": 75,
+    "color": "purple",
+    "text": "Monkeys"
+  },
+  {
+    "val": 50,
+    "color": "pink",
+    "text": "Giraffes"
+  },
+  {
+    "val": 100,
+    "color": "brown",
+    "text": "Birds"
+  }
+]
